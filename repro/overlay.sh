@@ -10,6 +10,7 @@
 set -u
 HERE="$(cd "$(dirname "$0")/.." && pwd)"
 FS="${1:?usage: overlay.sh FIVE_SPEED_CHECKOUT [--check]}"
+FS="$(cd "$FS" 2>/dev/null && pwd)" || { echo "checkout path not found"; exit 2; }
 MODE="${2:-}"
 [ -f "$FS/lean/lakefile.toml" ] || { echo "not a five-speed checkout: $FS/lean/lakefile.toml missing"; exit 2; }
 [ -f "$FS/lean/LRSpectrumFull/L5S5/FiveSpeedOfTree.lean" ] || { echo "five-speed module L5S5/FiveSpeedOfTree.lean missing"; exit 2; }
