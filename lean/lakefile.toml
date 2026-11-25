@@ -1,0 +1,14 @@
+name = "LRSpectrumFull"
+# No default target: a bare `lake build` would start one lean worker per core (4 to 10 GB each).
+# Build one module (and its imports) at a time, for example
+#   lake build LRSpectrumFull.Sext6.Gap.All
+# This project is an overlay on the Lake project of the five-speed archive (see ../README.md, section "Assembling the tree").
+defaultTargets = []
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "v4.30.0"
+
+[[lean_lib]]
+name = "LRSpectrumFull"

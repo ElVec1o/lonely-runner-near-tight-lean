@@ -1,0 +1,7 @@
+info: LRSpectrumFull/Sext6/Height.lean:77:0: 'LRSpectrumFull.Sext6.heightBound_of_ygb' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/L5S5/AggBlock.lean:101:0: 'LRSpectrumFull.L5S5.five_speed_spectrum_of_clauses' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/L5S5/FinalGlue.lean:50:0: 'LRSpectrumFull.L5S5.FinalGlue.five_speed_spectrum_glued' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/L5S5/FiveSpeedFinal2.lean:35:0: 'LRSpectrumFull.L5S5.five_speed_spectrum2' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/L5S5/FiveSpeedFinal3.lean:24:0: 'LRSpectrumFull.L5S5.five_speed_spectrum_final' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/LRC5.lean:29:0: 'LRSpectrumFull.Sext6.LRC5' depends on axioms: [propext, Classical.choice, Quot.sound]
+Build completed successfully (20194 jobs).

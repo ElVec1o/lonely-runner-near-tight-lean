@@ -1,0 +1,10 @@
+info: LRSpectrumFull/NearestInteger.lean:123:0: 'LRSpectrumFull.nearestIntDist_div_lt_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms16.lean:35:0: 'LRSpectrumFull.Sext6.Gap.FS1_unconditional' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms16.lean:36:0: 'LRSpectrumFull.Sext6.Gap.FS1_shape_unconditional' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms16.lean:37:0: 'LRSpectrumFull.Sext6.Gap.FS1_all' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms16.lean:38:0: 'LRSpectrumFull.Sext6.Gap.FS1_shape_all' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms16.lean:44:0: LRSpectrumFull.Sext6.Gap.FS1_unconditional: 1246 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms16.lean:44:0: LRSpectrumFull.Sext6.Gap.FS1_shape_unconditional: 1246 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms16.lean:44:0: LRSpectrumFull.Sext6.Gap.FS1_all: 1828 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: true
+info: LRSpectrumFull/Sext6/Gap/Axioms16.lean:44:0: LRSpectrumFull.Sext6.Gap.FS1_shape_all: 1828 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: true
+Build completed successfully (3399 jobs).

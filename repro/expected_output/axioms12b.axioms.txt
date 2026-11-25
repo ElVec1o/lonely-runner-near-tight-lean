@@ -1,0 +1,43 @@
+info: LRSpectrumFull/NearestInteger.lean:123:0: 'LRSpectrumFull.nearestIntDist_div_lt_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:35:0: 'LRSpectrumFull.Sext6.Gap.copWinT_of_copWinC' depends on axioms: [propext, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:36:0: 'LRSpectrumFull.Sext6.Gap.copWinC_of_copWinT' depends on axioms: [propext, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:37:0: 'LRSpectrumFull.Sext6.Gap.copWinC_iff' depends on axioms: [propext, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:38:0: 'LRSpectrumFull.Sext6.Gap.copWinT_of_cheb_N' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:39:0: 'LRSpectrumFull.Sext6.Gap.copWinT_of_cheb' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:40:0: 'LRSpectrumFull.Sext6.Gap.copWinHypC' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:41:0: 'LRSpectrumFull.Sext6.Gap.chebG_succ' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:42:0: 'LRSpectrumFull.Sext6.Gap.chebG_le_pow' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:43:0: 'LRSpectrumFull.Sext6.Gap.cheb_hyp_ge' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:44:0: 'LRSpectrumFull.Sext6.Gap.copWin_hi' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:45:0: 'LRSpectrumFull.Sext6.Gap.primeWinF4_mid' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:46:0: 'LRSpectrumFull.Sext6.Gap.primeWinF5_mid' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:47:0: 'LRSpectrumFull.Sext6.Gap.primeWinF6_mid' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:48:0: 'LRSpectrumFull.Sext6.Gap.primeWinF7_mid' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:49:0: 'LRSpectrumFull.Sext6.Gap.primeWinF8_mid' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:50:0: 'LRSpectrumFull.Sext6.Gap.primeWinF9_mid' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:51:0: 'LRSpectrumFull.Sext6.Gap.primeWinF10_mid' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:52:0: 'LRSpectrumFull.Sext6.Gap.primeWinF11_mid' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:53:0: 'LRSpectrumFull.Sext6.Gap.primeWinF12_mid' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:54:0: 'LRSpectrumFull.Sext6.Gap.copWin_table' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:55:0: 'LRSpectrumFull.Sext6.Gap.copWin_large' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:56:0: 'LRSpectrumFull.Sext6.Gap.copWin_unconditional' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:57:0: 'LRSpectrumFull.Sext6.Gap.ML_ge_S_unconditional' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:58:0: 'LRSpectrumFull.Sext6.Gap.cor_a_unconditional' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:59:0: 'LRSpectrumFull.Sext6.Gap.ML_ge_robust_unconditional' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:60:0: 'LRSpectrumFull.Sext6.Gap.theoremS_unconditional' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:61:0: 'LRSpectrumFull.Sext6.Gap.cor_a_robust_unconditional' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:62:0: 'LRSpectrumFull.Sext6.Gap.OE_low_of_copWin' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:63:0: 'LRSpectrumFull.Sext6.Gap.OE_low_unconditional' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:64:0: 'LRSpectrumFull.Sext6.Gap.theoremW_unconditional' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:78:0: LRSpectrumFull.Sext6.Gap.copWin_table: 204 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:78:0: LRSpectrumFull.Sext6.Gap.copWin_large: 270 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:78:0: LRSpectrumFull.Sext6.Gap.copWin_unconditional: 275 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:78:0: LRSpectrumFull.Sext6.Gap.ML_ge_S_unconditional: 1261 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:78:0: LRSpectrumFull.Sext6.Gap.cor_a_unconditional: 1261 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:78:0: LRSpectrumFull.Sext6.Gap.ML_ge_robust_unconditional: 1268 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:78:0: LRSpectrumFull.Sext6.Gap.theoremS_unconditional: 1272 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:78:0: LRSpectrumFull.Sext6.Gap.cor_a_robust_unconditional: 1272 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:78:0: LRSpectrumFull.Sext6.Gap.OE_low_unconditional: 1246 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:78:0: LRSpectrumFull.Sext6.Gap.theoremW_unconditional: 1246 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: false
+info: LRSpectrumFull/Sext6/Gap/Axioms12.lean:78:0: LRSpectrumFull.Sext6.Gap.ML_ge_S_table: 1841 constants reachable; LRSpectrumFull.Sext6.Gap.DusartPi reachable: true
+Build completed successfully (3397 jobs).

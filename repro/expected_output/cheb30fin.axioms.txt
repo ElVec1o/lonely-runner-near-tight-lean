@@ -1,0 +1,10 @@
+info: LRSpectrumFull/Sext6/Gap/Cheb30Axioms.lean:3:0: 'LRSpectrumFull.Sext6.Gap.Cheb30.psiN_sub_le_b30' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Cheb30Axioms.lean:4:0: 'LRSpectrumFull.Sext6.Gap.Cheb30.b30_le_psiN' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Cheb30Axioms.lean:5:0: 'LRSpectrumFull.Sext6.Gap.Cheb30.log_factorial_le' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Cheb30Axioms.lean:6:0: 'LRSpectrumFull.Sext6.Gap.Cheb30.log_factorial_ge' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Cheb30Axioms.lean:7:0: 'LRSpectrumFull.Sext6.Gap.Cheb30.b30_bounds' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Cheb30Axioms.lean:8:0: 'LRSpectrumFull.Sext6.Gap.Cheb30.psiN_upper' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Cheb30Axioms.lean:9:0: 'LRSpectrumFull.Sext6.Gap.Cheb30.window_card_lower' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Cheb30Axioms.lean:10:0: 'LRSpectrumFull.Sext6.Gap.Cheb30.copWinC_of_cheb' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Cheb30Axioms.lean:11:0: 'LRSpectrumFull.Sext6.Gap.Cheb30.copWinC_of_cheb_N' depends on axioms: [propext, Classical.choice, Quot.sound]
+Build completed successfully (2707 jobs).

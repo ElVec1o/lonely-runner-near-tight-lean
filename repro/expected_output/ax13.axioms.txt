@@ -1,0 +1,11 @@
+info: LRSpectrumFull/NearestInteger.lean:123:0: 'LRSpectrumFull.nearestIntDist_div_lt_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms13.lean:8:0: 'LRSpectrumFull.Sext6.Gap.prop13_ks' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms13.lean:9:0: 'LRSpectrumFull.Sext6.Gap.prop13_int' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms13.lean:10:0: 'LRSpectrumFull.Sext6.Gap.prop13' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms13.lean:11:0: 'LRSpectrumFull.Sext6.Gap.FS1_of_OE' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms13.lean:12:0: 'LRSpectrumFull.Sext6.Gap.FS1_upto' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms13.lean:13:0: 'LRSpectrumFull.Sext6.Gap.FS1_all' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms13.lean:14:0: 'LRSpectrumFull.Sext6.Gap.FS1_shape_of_OE' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms13.lean:15:0: 'LRSpectrumFull.Sext6.Gap.FS1_shape_upto' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gap/Axioms13.lean:16:0: 'LRSpectrumFull.Sext6.Gap.FS1_shape_all' depends on axioms: [propext, Classical.choice, Quot.sound]
+Build completed successfully (2291 jobs).

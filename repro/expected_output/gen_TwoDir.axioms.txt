@@ -1,0 +1,12 @@
+info: LRSpectrumFull/NearestInteger.lean:123:0: 'LRSpectrumFull.nearestIntDist_div_lt_iff' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Dilation.lean:35:0: 'LRSpectrumFull.Sext6.ML_smul' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Height.lean:76:0: 'LRSpectrumFull.Sext6.HeightBoundYGB6_of_general' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Height.lean:77:0: 'LRSpectrumFull.Sext6.heightBound_of_ygb' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/T2Core.lean:300:0: 'LRSpectrumFull.Sext6.coalesce' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/T2Core.lean:301:0: 'LRSpectrumFull.Sext6.ML_transfer' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/T2Core.lean:302:0: 'LRSpectrumFull.Sext6.LRC5_collision' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/T2Core.lean:303:0: 'LRSpectrumFull.Sext6.two_dir' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gen/TwoDir.lean:90:0: 'LRSpectrumFull.Sext6.LRC_collision_gen' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gen/TwoDir.lean:91:0: 'LRSpectrumFull.Sext6.two_dir_gen' depends on axioms: [propext, Classical.choice, Quot.sound]
+info: LRSpectrumFull/Sext6/Gen/TwoDir.lean:92:0: 'LRSpectrumFull.Sext6.two_dir_six'' depends on axioms: [propext, Classical.choice, Quot.sound]
+Build completed successfully (1982 jobs).

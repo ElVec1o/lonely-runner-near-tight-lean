@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Lean 4 sources for the near-tight lonely runner papers and the six-speed classification"
+abstract: >-
+  Lean 4 modules (Mathlib, Lean 4.30.0) cited by three papers on sets of runner speeds with loneliness close to 1/(N+1), and the classification of six distinct positive integer speeds with loneliness at most 1/7. Overlay on the public five-speed archive; no clean-checkout build has been run; not peer reviewed. The modules were produced with substantial assistance from AI systems (Anthropic's Claude models) under the direction of the author.
+authors:
+  - family-names: Bonfioli
+    given-names: Vico
+license: CC-BY-4.0
+repository-code: "https://github.com/ElVec1o/lonely-runner-near-tight-lean"
+version: "pre-release draft 2026-11-25"
+type: software
+keywords:
+  - lonely runner conjecture
+  - view obstruction
+  - Lean 4
